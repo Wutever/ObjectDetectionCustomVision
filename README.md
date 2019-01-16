@@ -6,7 +6,7 @@ Go through tutorial and get your own prediction/training keys at https://docs.mi
 ## Quick start
 1. Choose your bbox data/image file location at smaple.py
 2. type in your prediction/training keys on Sample.py
-3. Runn command 
+3. Run command 
 '''
 py sample.py
 '''
