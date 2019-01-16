@@ -11,5 +11,6 @@ Go through tutorial and get your own prediction/training keys at https://docs.mi
 py sample.py
 '''
 ## Note
-API have problems on training and prediction but doing fine at batch uploading, Training/Prediction can be done at web https://customvision.ai/
+1. API have problems on training and prediction but doing fine in batch uploading
+2. Training/Prediction can be done at web https://customvision.ai/
 
