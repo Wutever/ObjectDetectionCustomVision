@@ -8,7 +8,7 @@ def find(pattern, path):
                 result.append(os.path.join(root, name))
     return result
 file=find('*.csv', 'test2')
-prediction_key = "9281639b5f9045ceba9ea7990ed3f58d"
+prediction_key = ""
 a=["empty","岩羊","未知","耗牛","羚牛","血雉","鼠兔"]
 with open(file[0], "rt",encoding='GB2312') as f:
     reader1 = csv.reader(f, delimiter = ',')
