@@ -11,8 +11,8 @@ import numpy as np
 
 
 # Replace with a valid key
-training_key = "7411bfbbf68a4249a906a54f6cd93da2"
-prediction_key = "9281639b5f9045ceba9ea7990ed3f58d"
+training_key = ""
+prediction_key = ""
 
 #bounding box reference size
 Rwidth = 1080
