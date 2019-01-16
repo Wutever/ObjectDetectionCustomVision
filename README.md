@@ -1,4 +1,4 @@
-# TNC_FRCNN
+# CustomVision
 Create a object detection project for custom vision service
 
 ##Prerequisites 
